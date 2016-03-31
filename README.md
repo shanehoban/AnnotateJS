@@ -6,4 +6,5 @@ I recommend you use the `whereClick.animationFrame.js` or `whereClick.js` where 
 ------
 
 My website: [www.shanehoban.com](http://www.shanehoban.com)
+
 My Twitter: [@shanehoban](https://www.twitter.com/shanehoban)
