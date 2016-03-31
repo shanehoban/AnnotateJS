@@ -1,9 +1,27 @@
-# whereClick - Paint/Annotate on any Website
+# WhereClick - Paint/Annotate on any Website
 A small JavaScript script that allows you to paint on any website, in three different colours!
 
 I recommend you use the `whereClick.animationFrame.js` or `whereClick.js` where possible - as this does not require jQuery. The animation frame perhaps slightly imrpoves the performance of the drawing.
 
 ------
+
+### WhereClick with Canvas `whereClick.canvas.js`
+
+![Screenshot](/resources/whereClick.canvas.screenshot.png)
+
+**To change colour:**
+  - b = blue
+  - c = cyan
+  - g = green
+  - o = orange
+  - p = purple
+  - r = red
+  - v = violet
+  - y = yellow
+
+------
+
+### WhereClick without Canvas
 
 ![Screenshot](/resources/whereClick.screenshot.png)
 
