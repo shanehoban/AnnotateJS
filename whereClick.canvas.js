@@ -15,6 +15,7 @@
 			whereClick.canvasElement.style['position'] = 'absolute';
 			whereClick.canvasElement.style['top'] = '0';
 			whereClick.canvasElement.style['left'] = '0';
+			whereClick.canvasElement.style['background-color'] = 'transparent';
 			whereClick.canvasElement.height = whereClick.bodyElement.offsetHeight;
 			whereClick.canvasElement.width = whereClick.bodyElement.offsetWidth;
 						
