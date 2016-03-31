@@ -15,9 +15,9 @@
 		}
 	}
 
-  	$(document).mousemove(function(e){
-    	whereClick.xCords = e.pageX 
-    	whereClick.yCords = e.pageY;
+  	$(document).mousemove(function(event){
+    	whereClick.xCords = event.pageX 
+    	whereClick.yCords = event.pageY;
   	}); 
 
   	$(document).on('click', function(event){
