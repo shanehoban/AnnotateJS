@@ -1,4 +1,4 @@
-# WhereClick - Paint/Annotate on any Website
+# AnnotateJS - Paint/Annotate on any Website
 A small JavaScript script that allows you to paint on any website, in three different colours!
 
 [Here it is as a Chrome Extension](https://chrome.google.com/webstore/detail/whereclick/jdpombalknfdfnheaokmglaacmlgbeen)
